@@ -1,0 +1,35 @@
+body{
+    color: #333;
+}
+.red-bookmark{
+    color: red;
+}
+
+.box-alerta{
+    padding: 5px;
+    margin: 5px;
+    border: solid;
+    border-radius: 7px;
+}
+
+.alerta-item a:link, .alerta-item a:visited{
+    color: #333;
+    text-decoration: none;
+}
+
+
+.lida{
+    background-color: #7fe883;
+}
+.lida:hover{
+    background-color: green;
+    text-decoration: none;
+}
+
+.nao-lida{
+    background-color: #e87e7e;
+}
+.nao-lida:hover{
+    background-color: red;
+    text-decoration: none;
+}
